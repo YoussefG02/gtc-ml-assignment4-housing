@@ -62,5 +62,5 @@ Two machine learning models were trained and evaluated:
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/housing-price-prediction.git
+   git clone https://github.com/YoussefG02/gtc-ml-assignment4-housing.git
    
